@@ -1,0 +1,18 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "origem": "Exemplo sintético, sem dados operacionais"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.5,
+          40
+        ]
+      }
+    }
+  ]
+}
